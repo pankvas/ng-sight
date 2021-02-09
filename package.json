@@ -20,7 +20,12 @@
     "@angular/platform-browser-dynamic": "~11.0.6",
     "@angular/router": "~11.0.6",
     "angular-chartjs": "0.0.5",
+    "bootstrap": "^4.6.0",
+    "chart.js": "^2.9.4",
+    "jquery": "^3.5.1",
     "ngx-bootstrap": "^6.2.0",
+    "ngx-popper": "^7.0.0",
+    "popper": "^1.0.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
